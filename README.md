@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ananya
+- 👀 I’m interested in building innovative projects.
+- 🌱 I’m currently a sophomore at Delhi University.
+- 😄 Pronouns: She/Her
