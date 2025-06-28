@@ -35,3 +35,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmeananyasrivastava&show_icons=true&locale=en" alt="itsmeananyasrivastava" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeananyasrivastava&" alt="itsmeananyasrivastava" /></p>
+
+### Certifications & Achievements
+
+<a href="CREDLY_BADGE_LINK" target="_blank">
+  <img src="CREDLY_IMAGE_LINK" alt="Credly Badge" width="120"/>
+</a>
+<a href="SSOC_BADGE_LINK" target="_blank">
+  <img src="SSOC_IMAGE_LINK" alt="SSOC Badge" width="120"/>
+</a>
+<a href="GSSOC_BADGE_LINK" target="_blank">
+  <img src="GSSOC_IMAGE_LINK" alt="GSSoC Badge" width="120"/>
+</a>
