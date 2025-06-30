@@ -39,7 +39,7 @@
 ### Certifications & Achievements
 
 <p align="center">
-  <img src="assets/ggsoc_badge.png" alt="GGSOC Badge" width="200"/>
+  <img src="contributor SSOC.png" alt="GGSOC Badge" width="200"/>
   <img src="assets/ssoc_badge.png" alt="SSOC Badge" width="200"/>
 </p>
 
