@@ -41,8 +41,8 @@
 <a href="CREDLY_BADGE_LINK" target="_blank">
   <img src="CREDLY_IMAGE_LINK" alt="Credly Badge" width="120"/>
 </a>
-<a href="SSOC_BADGE_LINK" target="_blank">
-  <img src="SSOC_IMAGE_LINK" alt="SSOC Badge" width="120"/>
+<a href="https://drive.google.com/file/d/1VsqsBivfrLfqCFwuMXgv2k3WK3E_0TIp/view" target="_blank">
+  <img src="https://drive.google.com/file/d/1VsqsBivfrLfqCFwuMXgv2k3WK3E_0TIp/view" alt="SSOC Badge" width="120"/>
 </a>
 <a href="GSSOC_BADGE_LINK" target="_blank">
   <img src="GSSOC_IMAGE_LINK" alt="GSSoC Badge" width="120"/>
