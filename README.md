@@ -37,9 +37,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeananyasrivastava&" alt="itsmeananyasrivastava" /></p>
 
 ### Certifications & Achievements
-
-<p align="center">
-  <img src="contributor SSOC.png" alt="GGSOC Badge" width="200"/>
-  <img src="assets/ssoc_badge.png" alt="SSOC Badge" width="200"/>
-</p>
+[![An image of @itsmeananya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsmeananya)](https://holopin.io/@itsmeananya)
 
