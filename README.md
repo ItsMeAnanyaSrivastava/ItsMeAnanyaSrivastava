@@ -34,6 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeananyasrivastava&" alt="itsmeananyasrivastava" /></p>
 
-### Certifications & Achievements
+### Holopin badges
 [![An image of @itsmeananya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsmeananya)](https://holopin.io/@itsmeananya)
 
