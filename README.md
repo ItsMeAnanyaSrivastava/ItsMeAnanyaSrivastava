@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
-<h3 align="center">A passionate learner, Coder and Cyber Security, AI/ML enthusiast from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeananyasrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeananyasrivastava" /> </p>
-
-- 🌱 I’m currently learning **Cybersecurity and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ItsMeAnanyaSrivastava](https://github.com/ItsMeAnanyaSrivastava)
 
 - 📝 I regularly write articles on [https://medium.com/@itsmeananyasrivastava](https://medium.com/@itsmeananyasrivastava)
 
 - 📫 How to reach me **itsmeananyasrivastava@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
